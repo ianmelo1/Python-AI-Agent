@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "age": 37.0,
+      "lastName": "Smith",
+      "firstName": "Alice",
+      "id": 1.0,
+      "registeredAt": "2025-06-07T19:16:55.608920",
+      "email": "alice.smith@example.com",
+      "username": "alice495"
+    },
+    {
+      "age": 49.0,
+      "lastName": "Jones",
+      "registeredAt": "2025-02-10T19:16:55.608930",
+      "id": 2.0,
+      "firstName": "Bob",
+      "email": "bob.jones@test.org",
+      "username": "bob624"
+    },
+    {
+      "age": 51.0,
+      "lastName": "Williams",
+      "registeredAt": "2025-04-23T19:16:55.608934",
+      "id": 3.0,
+      "firstName": "Charlie",
+      "email": "charlie.williams@sample.net",
+      "username": "charlie996"
+    }
+  ]
+}
